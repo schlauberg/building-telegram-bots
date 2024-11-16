@@ -7,6 +7,6 @@
     "koa": "^2.5.3",
     "koa-body": "^4.0.4",
     "node-fetch": "^2.2.0",
-    "telegraf": "^3.24.0"
+    "telegraf": "^3.40.0"
   }
 }
