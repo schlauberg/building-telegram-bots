@@ -3,7 +3,7 @@
     "version": "0.0.0-master",
     "main": "./lib/mykoa-bot",
     "dependencies": {
-        "koa-body": "4.0.4",
+        "koa-body": "4.2.0",
         "koa": "2.5.3",
         "telegraf": "3.24.0"
     },
