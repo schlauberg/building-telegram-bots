@@ -4,7 +4,7 @@
     "main": "./lib/mykoa-bot",
     "dependencies": {
         "koa-body": "4.0.4",
-        "koa": "2.5.3",
+        "koa": "2.15.2",
         "telegraf": "3.24.0"
     },
     "scripts": {
